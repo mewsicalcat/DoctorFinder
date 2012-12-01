@@ -4,6 +4,8 @@
        </head>
                         <body>
 by Jessie Young and Alan Chancellor
+Alan was here
+
 <h4> Select attribute from doctor </h4> 
 <form action="results.php" method="post"> 
 <select> 
