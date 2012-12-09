@@ -1,0 +1,16 @@
+2	100	Excellent. He listens very. He gives me direct advice.	5
+3	100	I thought Dr. Yurow was wonderful!	5
+4	100	\N	4
+5	103	The staff is very friendly! They make you happy to be there.	4
+6	103	Extremely thorough with his diagnosis. Anyone looking for a cardiologist thats the man for you	5
+7	103	It was great! I was well attended	5
+8	104	Dr. was clear w explanations, friendly & professional- more like visiting good friends. -Front staff is excellent also!!	5
+9	104	Everything went well!	5
+10	104	\N	5
+11	105	Very informative and pleasant office surroundings.	5
+12	105	\N	5
+13	105	\N	5
+14	106	Dr. Kasner was great! My first time visiting, and she was very professional and also extremely nice. Gave me very good advice, too! Will definitely keep her as my new eye doctor.	5
+15	0	She was pleasant and professional	4
+16	0	My visit today was great i would highly recommend Dr Currin.	5
+17	0	Excellent!!	5

@@ -1,0 +1,5 @@
+1	Jessie	Young	Aetna	HMO	802	S. Broadway	Baltimore	MD	21231	F	jessie@jhu.edu
+2	Alan	Chancellor	Blue Cross Blue Shield	POS	3001	Vineyard Ln.	Baltimore	MD	21218	M	alan@jhu.edu
+3	Katie	Chen	Blue Cross Blue Shield	POS	600	Oldham St.	 Baltimore	MD	21224	F	katie@jhu.edu
+4	Alex	Stein	UnitedHealthCare	UnitedHealthCare Community Plan for Families	800	Key Hwy	Baltimore	MD	21230	M	alex@jhu.edu
+10	Alex	Smith	Aetna	HMO	3400	   N. Charles St.	   Baltimore	MD	21218	M	alex2@cs.jhu.edu

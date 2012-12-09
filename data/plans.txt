@@ -1,0 +1,23 @@
+Aetna	Aetna Choice POS (Aetna HealthFund)
+Aetna	Aetna Choice POS II (Aetna HealthFund)
+Aetna	Aetna Golden Choice Plan (PPO)
+Aetna	Aetna Golden Medicare Plan (HMO) 
+Blue Cross Blue Shield	PPO/EPO
+UnitedHealthCare	UnitedHealthCare Community Plan for Families
+Aetna	Aetna Golden Medicare Plan (HMO)
+Aetna	HMO
+Aetna	Medicare Plan (HMO/Open Access HMO)
+Aetna	Open Choice
+Alliance PPO	PPO
+Anthem Blue Cross Blue Shield	Advantage HMO
+Blue Cross Blue Shield	POS
+Blue Cross Blue Shield	Traditional
+CareFirst Blue Cross Blue Shield	BlueChoice HMO
+CareFirst Blue Cross Blue Shield	BlueChoice HMO Open Access
+CareFirst Blue Cross Blue Shield	BluePreferred (PPO)
+CareFirst Blue Cross Blue Shield	CareFirst BlueChoice
+CareFirst Blue Cross Blue Shield	Point of Service (POS)
+CareFirst Blue Cross Blue Shield	Preferred Provider Organization (PPN/PPO)
+CareFirst Blue Cross Blue Shield	Select Preferred Providers (PPO) 
+CareFirst Blue Cross Blue Shield	Traditional Indemnity
+CareFirst Blue Cross Blue Shield	Personal Comp

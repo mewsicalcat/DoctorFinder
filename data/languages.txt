@@ -1,0 +1,9 @@
+101	Mandarin
+101	Farsi
+102	Farsi
+102	French
+102	Spanish
+103	German
+105	Hindi
+105	German
+105	Arabic

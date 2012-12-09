@@ -1,0 +1,138 @@
+101	Aetna	Aetna Choice POS (Aetna HealthFund)
+101	Aetna	Aetna Choice POS II (Aetna HealthFund)
+101	Aetna	Aetna Golden Choice Plan (PPO)
+101	Aetna	Aetna Golden Medicare Plan (HMO) 
+101	Blue Cross Blue Shield	PPO/EPO
+101	UnitedHealthCare	UnitedHealthCare Community Plan for Families
+101	Aetna	Aetna Golden Medicare Plan (HMO)
+101	Aetna	HMO
+101	Aetna	Medicare Plan (HMO/Open Access HMO)
+101	Aetna	Open Choice
+101	Alliance PPO	PPO
+101	Anthem Blue Cross Blue Shield	Advantage HMO
+101	Blue Cross Blue Shield	POS
+101	Blue Cross Blue Shield	Traditional
+101	CareFirst Blue Cross Blue Shield	BlueChoice HMO
+101	CareFirst Blue Cross Blue Shield	BlueChoice HMO Open Access
+101	CareFirst Blue Cross Blue Shield	BluePreferred (PPO)
+101	CareFirst Blue Cross Blue Shield	CareFirst BlueChoice
+101	CareFirst Blue Cross Blue Shield	Point of Service (POS)
+101	CareFirst Blue Cross Blue Shield	Preferred Provider Organization (PPN/PPO)
+101	CareFirst Blue Cross Blue Shield	Select Preferred Providers (PPO) 
+101	CareFirst Blue Cross Blue Shield	Traditional Indemnity
+101	CareFirst Blue Cross Blue Shield	Personal Comp
+102	Aetna	Aetna Choice POS (Aetna HealthFund)
+102	Aetna	Aetna Choice POS II (Aetna HealthFund)
+102	Aetna	Aetna Golden Choice Plan (PPO)
+102	Aetna	Aetna Golden Medicare Plan (HMO) 
+102	Blue Cross Blue Shield	PPO/EPO
+102	UnitedHealthCare	UnitedHealthCare Community Plan for Families
+102	Aetna	Aetna Golden Medicare Plan (HMO)
+102	Aetna	HMO
+102	Aetna	Medicare Plan (HMO/Open Access HMO)
+102	Aetna	Open Choice
+102	Alliance PPO	PPO
+102	Anthem Blue Cross Blue Shield	Advantage HMO
+102	Blue Cross Blue Shield	POS
+102	Blue Cross Blue Shield	Traditional
+102	CareFirst Blue Cross Blue Shield	BlueChoice HMO
+102	CareFirst Blue Cross Blue Shield	BlueChoice HMO Open Access
+102	CareFirst Blue Cross Blue Shield	BluePreferred (PPO)
+102	CareFirst Blue Cross Blue Shield	CareFirst BlueChoice
+102	CareFirst Blue Cross Blue Shield	Point of Service (POS)
+102	CareFirst Blue Cross Blue Shield	Preferred Provider Organization (PPN/PPO)
+102	CareFirst Blue Cross Blue Shield	Select Preferred Providers (PPO) 
+102	CareFirst Blue Cross Blue Shield	Traditional Indemnity
+102	CareFirst Blue Cross Blue Shield	Personal Comp
+103	Aetna	Aetna Choice POS (Aetna HealthFund)
+103	Aetna	Aetna Choice POS II (Aetna HealthFund)
+103	Aetna	Aetna Golden Choice Plan (PPO)
+103	Aetna	Aetna Golden Medicare Plan (HMO) 
+103	Blue Cross Blue Shield	PPO/EPO
+103	UnitedHealthCare	UnitedHealthCare Community Plan for Families
+103	Aetna	Aetna Golden Medicare Plan (HMO)
+103	Aetna	HMO
+103	Aetna	Medicare Plan (HMO/Open Access HMO)
+103	Aetna	Open Choice
+103	Alliance PPO	PPO
+103	Anthem Blue Cross Blue Shield	Advantage HMO
+103	Blue Cross Blue Shield	POS
+103	Blue Cross Blue Shield	Traditional
+103	CareFirst Blue Cross Blue Shield	BlueChoice HMO
+103	CareFirst Blue Cross Blue Shield	BlueChoice HMO Open Access
+103	CareFirst Blue Cross Blue Shield	BluePreferred (PPO)
+103	CareFirst Blue Cross Blue Shield	CareFirst BlueChoice
+103	CareFirst Blue Cross Blue Shield	Point of Service (POS)
+103	CareFirst Blue Cross Blue Shield	Preferred Provider Organization (PPN/PPO)
+103	CareFirst Blue Cross Blue Shield	Select Preferred Providers (PPO) 
+103	CareFirst Blue Cross Blue Shield	Traditional Indemnity
+103	CareFirst Blue Cross Blue Shield	Personal Comp
+104	Aetna	Aetna Choice POS (Aetna HealthFund)
+104	Aetna	Aetna Choice POS II (Aetna HealthFund)
+104	Aetna	Aetna Golden Choice Plan (PPO)
+104	Aetna	Aetna Golden Medicare Plan (HMO) 
+104	Blue Cross Blue Shield	PPO/EPO
+104	UnitedHealthCare	UnitedHealthCare Community Plan for Families
+104	Aetna	Aetna Golden Medicare Plan (HMO)
+104	Aetna	HMO
+104	Aetna	Medicare Plan (HMO/Open Access HMO)
+104	Aetna	Open Choice
+104	Alliance PPO	PPO
+104	Anthem Blue Cross Blue Shield	Advantage HMO
+104	Blue Cross Blue Shield	POS
+104	Blue Cross Blue Shield	Traditional
+104	CareFirst Blue Cross Blue Shield	BlueChoice HMO
+104	CareFirst Blue Cross Blue Shield	BlueChoice HMO Open Access
+104	CareFirst Blue Cross Blue Shield	BluePreferred (PPO)
+104	CareFirst Blue Cross Blue Shield	CareFirst BlueChoice
+104	CareFirst Blue Cross Blue Shield	Point of Service (POS)
+104	CareFirst Blue Cross Blue Shield	Preferred Provider Organization (PPN/PPO)
+104	CareFirst Blue Cross Blue Shield	Select Preferred Providers (PPO) 
+104	CareFirst Blue Cross Blue Shield	Traditional Indemnity
+104	CareFirst Blue Cross Blue Shield	Personal Comp
+105	Aetna	Aetna Choice POS (Aetna HealthFund)
+105	Aetna	Aetna Choice POS II (Aetna HealthFund)
+105	Aetna	Aetna Golden Choice Plan (PPO)
+105	Aetna	Aetna Golden Medicare Plan (HMO) 
+105	Blue Cross Blue Shield	PPO/EPO
+105	UnitedHealthCare	UnitedHealthCare Community Plan for Families
+105	Aetna	Aetna Golden Medicare Plan (HMO)
+105	Aetna	HMO
+105	Aetna	Medicare Plan (HMO/Open Access HMO)
+105	Aetna	Open Choice
+105	Alliance PPO	PPO
+105	Anthem Blue Cross Blue Shield	Advantage HMO
+105	Blue Cross Blue Shield	POS
+105	Blue Cross Blue Shield	Traditional
+105	CareFirst Blue Cross Blue Shield	BlueChoice HMO
+105	CareFirst Blue Cross Blue Shield	BlueChoice HMO Open Access
+105	CareFirst Blue Cross Blue Shield	BluePreferred (PPO)
+105	CareFirst Blue Cross Blue Shield	CareFirst BlueChoice
+105	CareFirst Blue Cross Blue Shield	Point of Service (POS)
+105	CareFirst Blue Cross Blue Shield	Preferred Provider Organization (PPN/PPO)
+105	CareFirst Blue Cross Blue Shield	Select Preferred Providers (PPO) 
+105	CareFirst Blue Cross Blue Shield	Traditional Indemnity
+105	CareFirst Blue Cross Blue Shield	Personal Comp
+106	Aetna	Aetna Choice POS (Aetna HealthFund)
+106	Aetna	Aetna Choice POS II (Aetna HealthFund)
+106	Aetna	Aetna Golden Choice Plan (PPO)
+106	Aetna	Aetna Golden Medicare Plan (HMO) 
+106	Blue Cross Blue Shield	PPO/EPO
+106	UnitedHealthCare	UnitedHealthCare Community Plan for Families
+106	Aetna	Aetna Golden Medicare Plan (HMO)
+106	Aetna	HMO
+106	Aetna	Medicare Plan (HMO/Open Access HMO)
+106	Aetna	Open Choice
+106	Alliance PPO	PPO
+106	Anthem Blue Cross Blue Shield	Advantage HMO
+106	Blue Cross Blue Shield	POS
+106	Blue Cross Blue Shield	Traditional
+106	CareFirst Blue Cross Blue Shield	BlueChoice HMO
+106	CareFirst Blue Cross Blue Shield	BlueChoice HMO Open Access
+106	CareFirst Blue Cross Blue Shield	BluePreferred (PPO)
+106	CareFirst Blue Cross Blue Shield	CareFirst BlueChoice
+106	CareFirst Blue Cross Blue Shield	Point of Service (POS)
+106	CareFirst Blue Cross Blue Shield	Preferred Provider Organization (PPN/PPO)
+106	CareFirst Blue Cross Blue Shield	Select Preferred Providers (PPO) 
+106	CareFirst Blue Cross Blue Shield	Traditional Indemnity
+106	CareFirst Blue Cross Blue Shield	Personal Comp

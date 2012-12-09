@@ -1,0 +1,7 @@
+Feroz	Padder	100	Cardiologist	8850	Columbia 100 Pkwy	Columbia	MD	21045	M
+Feroz	Padder	101	Cardiologist	7350	Van Dusen Rd.	Laurel	MD	20707	M
+Rakesh	Sahni	102	Cardiologist	7474	Greenway Center Drive	Greenbelt	MD	20770	M
+Mohsin	Ijaz	103	Cardiologist	11119	Rockville	Pike	Rockville	MD	20852	M
+Nathaniel	Ruttig	104	Ophthalmologist	6231	N. Charles St.	Baltimore	MD	21212	M
+John	Minkowski	105	Ophthalmologist	8625	Pleasant Plains Rd.	Towson	MD	21286	M
+Cindy	Kasner	106	Optometrist	515	Fairmount Ave.	Towson	MD	21286	F
