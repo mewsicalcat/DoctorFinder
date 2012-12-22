@@ -1,0 +1,9 @@
+BJackson	Password	108
+FPadder	Location1	100
+FPadder	Location2	101
+RSahni	OpenSesame	102
+MIjaz	Swordfish	103
+NRuttig	Pants	104
+JMinkowski	Batman	105
+CKasner	Spiderman	106
+JCurrin	Thor	107

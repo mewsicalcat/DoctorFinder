@@ -2,12 +2,7 @@
 echo "Hello ". $_POST["firstname"]. " " . $_POST["lastname"] . "!<br>"; 
 echo "Zip code: " . $_POST["zipcode"] . "<br>"; 
 $zipcode = $_POST["zipcode"]; 
-$specialty = $_POST["specialty"]; 
 echo "Specialty: " .$_POST["specialty"] . "<br>"; 
-echo "Provider: " .$_POST["provider"] . "<br>"; 
-$provider = $_POST["provider"]; 
-$plan = $_POST["plan"]; 
-echo "Plan: " .$_POST["plan"] . "<br>"; 
 $dbhost = 'dbase.cs.jhu.edu:3306';
 $dbuser = '415_12_jyoung73';
 $dbpass = 'societal!Vanward';
@@ -29,34 +24,11 @@ else {
 echo "Connected to cs41512_docdb_db <br>"; 
 }
 
-$whereClause = " WHERE 1 = 1 ";
-
 $query = 'SELECT * FROM Doctors'; 
-if (!empty($provider)	) {
-if (!empty($plan)	) {
-	$query .= ", DoctorPlans ";
-	$whereClause .= " AND DoctorPlans.PlanName = '$plan' AND DoctorPlans.PlanProvider = '$provider' 
-AND DoctorPlans.DId=Doctors.DId"; 
-}
-}
-
-if (!empty($specialty)	) {
-	$whereClause .= " AND Specialty='$specialty'"; 
-	echo "specialty " . $specialty . "<br>";
-}
-
-if (!empty($zipcode))
-{
-	echo $zipcode;
-}
-$query .= $whereClause; 
-
-echo $query . "<br>"; 
-
 $result = mysql_query($query);
 
 while($row = mysql_fetch_array($result)) {
-printf("Doc name: %s<br>", $row["DFName"]); 
+printf("Doc name: %s", $row["DFName"]); 
 }
 
 mysql_close($conn);
